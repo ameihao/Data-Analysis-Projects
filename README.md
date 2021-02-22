@@ -1,1 +1,1 @@
-Here are part of my data analysis projects.
+Here are parts of my data analysis projects.
